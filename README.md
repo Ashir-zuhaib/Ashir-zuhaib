@@ -2,7 +2,7 @@
 
 ## **Ashir Zuhaib** 🌐  
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AshirZuhaib)  
-**MERN Stack Developer | React.js & Next.js Specialist | Web3 Enthusiast**
+**MERN Stack Developer | Node.js, React.js & Next.js Specialist | Web3 Enthusiast**
 
 ---
 
