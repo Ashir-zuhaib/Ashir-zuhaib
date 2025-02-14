@@ -1,5 +1,5 @@
 # **Ashir Zuhaib** 🌍
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=AshirZuhaib)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Ashir-zuhaib)
 
 ## **MERN Stack Developer | React.js & Node.js Specialist**
 
