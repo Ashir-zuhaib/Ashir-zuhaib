@@ -1,5 +1,6 @@
 # **Ashir Zuhaib** 🌍
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Ashir-zuhaib)
+![Visitor Count](https://komarev.com/ghpvc/?username=AshirZuhaib&color=blue)
+
 
 ## **MERN Stack Developer | React.js & Node.js Specialist**
 
