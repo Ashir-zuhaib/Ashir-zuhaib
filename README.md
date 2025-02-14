@@ -1,5 +1,4 @@
 # **Ashir Zuhaib** 🌍
-![Visitor Count](https://komarev.com/ghpvc/?username=AshirZuhaib&color=blue)
 
 
 ## **MERN Stack Developer | React.js & Node.js Specialist**
@@ -59,6 +58,7 @@ A cutting-edge donation platform optimizing user experience and secure payment p
 ![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-zuhaib&show_icons=true&theme=tokyonight)
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=AshirZuhaib&color=blue)
 
 ## 📬 **Connect With Me**
 📧 **Email**: ashirzuhaib2@gmail.com  
