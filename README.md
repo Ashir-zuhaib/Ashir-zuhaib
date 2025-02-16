@@ -1,7 +1,7 @@
 # **Ashir Zuhaib** 🌍
 
 
-## **MERN Stack Developer | React.js & Node.js Specialist**
+## **MERN Stack Developer | React.js, Next.js & Node.js Specialist**
 
 🚀 Passionate about building scalable, efficient, and secure web applications with modern technologies. With **3 years of experience**, I specialize in **React.js, Next.js, and Node.js** solutions, focusing on high-performance and user-friendly applications.
 
