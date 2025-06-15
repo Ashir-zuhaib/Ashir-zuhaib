@@ -42,10 +42,14 @@
 
 | Project | Description | Tech Highlights |
 |---------|-------------|-----------------|
-| **Turbo Donate** | Modern donation platform with real-time status, secure payments & admin dashboard. | Next.js · MongoDB · Firebase Auth |
-| **QuickBooks Sync** | Automated expense sync service for multi-tenant franchises. | Node.js · GraphQL · MongoDB |
+| **Ecommerce Admin + Multikart Frontend** | Multi-store ecommerce platform using the Multikart theme. Admin dashboard manages theme, products, and dynamic Supabase integration. | Next.js · Supabase · Tailwind CSS · Vercel |
+| **QuickBooks Sync** | Automated expense and payment synchronization system for multi-tenant franchises using QuickBooks APIs. | Node.js · GraphQL · MongoDB |
+| **Turbo Donate** | Modern donation platform with real-time item status updates, secure payments, and donor re-submission flows. | Next.js · MongoDB · Firebase Auth |
+| **PamiFactura** | Invoice generation platform with signed video proof support and secure, role-based access. | Node.js · Firebase · REST API |
+
 
 > *More projects coming soon…*
+
 
 ---
 
