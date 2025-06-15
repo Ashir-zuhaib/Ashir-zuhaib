@@ -1,71 +1,78 @@
-# **Ashir Zuhaib** 🌍
+<!-- Profile README for Ashir Zuhaib -->
 
+<h1 align="center">Hi there, I'm Ashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
 
-## **MERN Stack Developer | React.js, Next.js & Node.js Specialist**
+<p align="center">
+  <b>MERN Stack Developer • React & Next.js Specialist • Node.js Back-End Engineer</b><br/>
+  Building performant, secure and delightful web experiences since 2022.
+</p>
 
-🚀 Passionate about building scalable, efficient, and secure web applications with modern technologies. With **3 years of experience**, I specialize in **React.js, Next.js, and Node.js** solutions, focusing on high-performance and user-friendly applications.
-
----
-
-## 💡 **About Me**
-Hello! I'm **Ashir Zuhaib**, a **MERN Stack Developer** who thrives on creating seamless digital experiences. My expertise lies in crafting optimized, scalable applications while ensuring robust security and smooth performance. I stay up-to-date with the latest trends in web development to deliver cutting-edge solutions.
-
----
-
-## 🔧 **Tech Stack & Skills**
-
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### **Security & Authentication**
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Captcha](https://img.shields.io/badge/Captcha-17A2B8?style=for-the-badge&logoColor=white)
-
-### **Version Control & Deployment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+</p>
 
 ---
 
-## 🚀 **Current Projects**
-### 🔹 **Turbo Donate**
-A cutting-edge donation platform optimizing user experience and secure payment processing.
+## 🔥 What I Do
+
+- ⚡ Build end-to-end MERN applications with real-time features & serverless functions.
+- 🚀 Optimize performance, SEO, accessibility & Core Web Vitals for production Next.js sites.
+- 🔐 Implement secure auth flows (JWT, Firebase Auth, Supabase) and role-based back-ends.
+- 🛠️ Deploy & scale on Vercel, Google Cloud & Firebase, following DevOps best practices.
 
 ---
 
-## 📈 **GitHub Stats**
-![Ashir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashir-zuhaib&show_icons=true&theme=tokyonight)
+## 🧰 Tech Toolbox
+
+| Category      | Technologies |
+|---------------|--------------|
+| **Front-End** | React ⚛️ · Next.js 14 · Tailwind CSS · Ant Design · MUI |
+| **Back-End**  | Node.js · Express · REST/GraphQL · Firebase Functions |
+| **Databases** | MongoDB · Supabase Postgres · Firestore |
+| **DevOps**    | Git · GitHub Actions · Docker · CI/CD |
+| **Cloud**     | Vercel · Google Cloud · Cloudflare |
 
 ---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Highlights |
+|---------|-------------|-----------------|
+| **Turbo Donate** | Modern donation platform with real-time status, secure payments & admin dashboard. | Next.js · MongoDB · Firebase Auth |
+| **QuickBooks Sync** | Automated expense sync service for multi-tenant franchises. | Node.js · GraphQL · MongoDB |
+
+> *More projects coming soon…*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-zuhaib&show_icons=true&theme=tokyonight" alt="Ashir's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-zuhaib&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-zuhaib&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Coming soon …]
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-zuhaib/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashirzuhaib2@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=AshirZuhaib&color=blue)
-
-## 📬 **Connect With Me**
-📧 **Email**: ashirzuhaib2@gmail.com  
-💼 **LinkedIn**: [Ashir Zuhaib](https://www.linkedin.com/in/ashir-zuhaib/)  
-
----
-
-## ⚡ **Fun Fact**
-💡 I love diving into **new web technologies** and pushing the boundaries of **innovation** in every project I work on!
-
