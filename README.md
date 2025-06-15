@@ -59,12 +59,6 @@
 
 ---
 
-## ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon …]
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Connect With Me
 
