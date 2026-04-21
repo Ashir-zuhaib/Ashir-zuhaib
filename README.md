@@ -1,76 +1,140 @@
-<!-- Profile README for Ashir Zuhaib -->
+<!-- GitHub Profile README for Ashir Zuhaib -->
 
-<h1 align="center">Hi there, I'm Ashir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="Waving hand"></h1>
+# Ashir Zuhaib
 
-<p align="center">
-  <b>MERN Stack Developer • React & Next.js Specialist • Node.js Back-End Engineer</b><br/>
-  Building performant, secure and delightful web experiences since 2022.
-</p>
+**Full-Stack Developer | Next.js | React.js | Supabase | PostgreSQL | React Native**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js Badge" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind Badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
-</p>
+I build and maintain modern web applications, ecommerce platforms, CRMs, and mobile apps with a strong focus on performance, usability, and production stability.
+
+My work includes **Next.js storefronts**, **admin dashboards**, **Supabase/PostgreSQL systems**, **CRM workflows**, and **bug fixing / scaling existing monorepos** for real-world client products.
 
 ---
 
-## 🔥 What I Do
+## About Me
 
-- ⚡ Build end-to-end MERN applications with real-time features & serverless functions.
-- 🚀 Optimize performance, SEO, accessibility & Core Web Vitals for production Next.js sites.
-- 🔐 Implement secure auth flows (JWT, Firebase Auth, Supabase) and role-based back-ends.
-- 🛠️ Deploy & scale on Vercel, Google Cloud & Firebase, following DevOps best practices.
-
----
-
-## 🧰 Tech Toolbox
-
-| Category      | Technologies |
-|---------------|--------------|
-| **Front-End** | React ⚛️ · Next.js 14 · Tailwind CSS · Ant Design · MUI |
-| **Back-End**  | Node.js · Express · REST/GraphQL · Firebase Functions |
-| **Databases** | MongoDB · Supabase Postgres · Firestore |
-| **DevOps**    | Git · GitHub Actions · Docker · CI/CD |
-| **Cloud**     | Vercel · Google Cloud · Cloudflare |
+- Full-stack developer working across **frontend, backend, and database layers**
+- Strong hands-on experience with **Next.js, React.js, Supabase, PostgreSQL, and React Native**
+- Comfortable improving existing production systems, fixing issues, and shipping new features
+- Focused on **clean UI, maintainable architecture, SEO-friendly builds, and stable deployments**
 
 ---
 
-## 🚀 Featured Projects
+## Core Stack
 
-| Project | Description | Tech Highlights |
-|---------|-------------|-----------------|
-| **Ecommerce Admin + Multikart Frontend** | Multi-store ecommerce platform using the Multikart theme. Admin dashboard manages theme, products, and dynamic Supabase integration. | Next.js · Supabase · Tailwind CSS · Vercel |
-| **QuickBooks Sync** | Automated expense and payment synchronization system for multi-tenant franchises using QuickBooks APIs. | Node.js · GraphQL · MongoDB |
-| **Turbo Donate** | Modern donation platform with real-time item status updates, secure payments, and donor re-submission flows. | Next.js · MongoDB · Firebase Auth |
-| **PamiFactura** | Invoice generation platform with signed video proof support and secure, role-based access. | Node.js · Firebase · REST API |
+**Frontend**  
+Next.js, React.js, Tailwind CSS, JavaScript, TypeScript
 
+**Backend / Database**  
+Supabase, PostgreSQL, Node.js, REST APIs
 
-> *More projects coming soon…*
+**Mobile**  
+React Native
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashir-zuhaib&show_icons=true&theme=tokyonight" alt="Ashir's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashir-zuhaib&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashir-zuhaib&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+**Project Types**  
+Ecommerce, CRM, admin dashboards, business websites,blogs management, monorepo maintenance
 
 ---
 
+## Selected Projects
 
-## 🤝 Connect With Me
+### Ciities
+**Website:** [website.ciiites.com](https://website.ciiites.com)  
+Worked on a business platform using modern frontend architecture and production-ready UI implementation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashir-zuhaib/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashirzuhaib2@gmail.com)
+**Highlights**
+- Frontend development and UI implementation
+- Responsive pages and reusable components
+- Business-focused website structure
+
+**Tech**
+Next.js / React.js
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### FlowersEzGo / LeFleuriste
+**Websites:**  
+[flowersezgo.com](https://flowersezgo.com)  
+[lefleuriste.com](https://lefleuriste.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=AshirZuhaib&color=blue)
+Built and improved ecommerce experiences for online flower businesses with focus on storefront usability and conversion-oriented flows.
+
+**Highlights**
+- Ecommerce UI and customer-facing flows
+- Product presentation and responsive layouts
+- Performance-focused frontend implementation
+
+**Tech**
+Next.js / React.js / Ecommerce
+
+---
+
+### SkyPeak Tech
+**Website:** [skypeak.tech](https://skypeak.tech)
+
+Built a pet identification and recovery system where users can scan a tag on a pet to instantly retrieve owner details and trigger real-time alerts.
+
+**How it works**
+- Each pet has a unique tag linked to a Supabase database
+- Scanning the tag fetches the pet’s record
+- The system sends alerts to the owner with scan details and location
+
+**Highlights**
+- Real-time pet lookup using Supabase
+- Automated email and SMS notifications to pet owners
+- Location-aware alert system for faster recovery
+- Clean and responsive frontend for quick access during emergencies
+
+**Tech**
+Next.js / Supabase / PostgreSQL / Notifications (Email + SMS)
+---
+
+### SoundLabz
+**Website:** [soundlabz.net](https://soundlabz.net)
+
+Contributed to an ecommerce platform with dashboard-related functionality and frontend improvements.
+
+**Highlights**
+- Ecommerce frontend work
+- Dashboard development
+- UI updates and component maintenance
+
+**Tech**
+React.js / Ecommerce / Dashboard
+
+---
+
+### RV Help
+**Website:** [rvhelp.com](https://rvhelp.com)
+
+Currently working as a **Full-Stack Developer** on an existing monorepo, fixing issues, improving stability, and maintaining production features.
+
+**What I work on**
+- Fixing bugs in an existing **Next.js monorepo**
+- Working with **PostgreSQL**
+- Supporting and improving a **React Native mobile app**
+- Maintaining and improving existing full-stack workflows
+
+**Tech**
+Next.js / PostgreSQL / React Native / Monorepo Maintenance
+
+---
+
+## What I’m Focused On
+
+- Building scalable **Next.js applications**
+- Developing **ecommerce and CRM systems**
+- Improving existing products through **bug fixing, refactoring, and feature development**
+- Shipping better user experiences with cleaner frontend architecture
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/ashir-zuhaib](https://www.linkedin.com/in/ashir-zuhaib/)
+- **Email:** [ashirzuhaib2@gmail.com](mailto:ashirzuhaib2@gmail.com)
+
+---
+
+## GitHub
+
+I use GitHub to showcase selected work, share code, and document practical full-stack experience across business websites, ecommerce platforms, CRMs, and mobile applications.
