@@ -69,7 +69,7 @@ Next.js / React.js / Ecommerce
 ---
 
 ### SkyPeak Tech
-**Website:** [skypeak.tech](https://skypeak.tech)
+**Website:** [skypeak.tech](https://pet-tag-finder.vercel.app)
 
 Built a pet identification and recovery system where users can scan a tag on a pet to instantly retrieve owner details and trigger real-time alerts.
 
